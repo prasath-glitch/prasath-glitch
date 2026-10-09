@@ -1,65 +1,75 @@
-# 👋 Hi, I'm Hari Prasath !
+👋 Hi, I'm Hari Prasath!
 
-### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-I'm an aspiring Data Analyst passionate about transforming data into
-meaningful insights and building interactive dashboards.
+I'm an aspiring Data Analyst and BCA graduate passionate about transforming raw data into meaningful insights, identifying trends, and building interactive dashboards to support data-driven decision-making.
 
 ### 🚀 About Me
 
-- 📊 Interested in Data Analytics & Business Intelligence
-- 🐍 Learning and working with Python
-- 🗄️ SQL for data analysis and database management
-- 📈 Creating dashboards using Power BI
-- 📑 Excel for data cleaning and analysis
-- 💡 Passionate about solving real-world problems using data
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Using Python and Pandas for data analysis
+- 🗄️ Practicing SQL and MySQL for querying and analyzing data
+- 📈 Building interactive dashboards using Power BI
+- 📑 Using Excel for data analysis and reporting
+- 💡 Passionate about solving real-world business problems through data
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming & Analytics
+
 - 🐍 Python
-- 🗄️ SQL
-- 📊 Excel
+- 🐼 Pandas
+- 🗄️ SQL / MySQL
+- 📊 Microsoft Excel
 - 📈 Power BI
 
 ### Skills
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Data Filtering and Aggregation
+- SQL Queries and Data Analysis
+- KPI Development and Calculations
 - Dashboard Development
-- SQL Queries
-- Data Reporting
+- Data Visualization and Reporting
 
 ---
 
 ## 📂 Projects
 
-### 📺 Netflix Dashboard
-Interactive Power BI dashboard analyzing Netflix content,
-genres, ratings and release trends.
+### 🛒 Amazon Sales Analysis
 
-### 📊 Sales Analysis Dashboard
-Power BI dashboard for analyzing sales performance,
-products, customers and revenue.
+Analyzed Amazon sales data using Python and Pandas to explore products, categories, cities, payment methods, pricing, and revenue.
 
-### 🐍 Python Data Analysis
-Data cleaning and exploratory analysis using Python,
-Pandas and Matplotlib.
+### 👥 HR Employee Analysis
 
----
+Analyzed employee data using Python and Pandas to explore salary, experience, departments, cities, performance, and salary calculations.
+
+### 📈 Lead Management & Sales Performance Analytics
+
+Prepared lead data using Python and Pandas and developed an interactive Power BI dashboard to track lead performance, conversions, and key business KPIs.
+
+--
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasath-glitch&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasath-glitch&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prasath-glitch&theme=tokyonight)
+
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 linkedin.com/in/prasath3
-- 📧 prasathzee@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/prasath3
+  
+- 🐙 GitHub: [prasath-glitch](https://github.com/prasath-glitch)
+
 ---
 
-### ⭐ Stay Curious & Keep Learning!
+### ⭐ Turning Data into Insights | Always Learning & Growing!
+
