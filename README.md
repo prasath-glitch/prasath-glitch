@@ -1,6 +1,6 @@
 👋 Hi, I'm Hari Prasath!
 
-📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+ 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 I'm an aspiring Data Analyst and BCA graduate passionate about transforming raw data into meaningful insights, identifying trends, and building interactive dashboards to support data-driven decision-making.
 
